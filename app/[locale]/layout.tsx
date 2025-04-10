@@ -4,6 +4,7 @@ import { NextIntlClientProvider } from 'next-intl';
 import { getTranslations } from 'next-intl/server';
 import Navigation from '@/components/Navigation';
 import Footer from '@/components/Footer';
+import { Toaster } from '@/components/ui/toaster';
 import '../globals.css';
 
 const inter = Inter({ subsets: ['latin'] });
@@ -40,6 +41,7 @@ export default async function LocaleLayout({
             {children}
           </main>
           <Footer />
+          <Toaster />
         </NextIntlClientProvider>
       </body>
     </html>

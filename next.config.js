@@ -1,17 +1,18 @@
-const nextIntlConfig = require('./next-intl.config.js');
-
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   eslint: {
     ignoreDuringBuilds: true,
   },
   images: {
-    unoptimized: true,
-  },
-  i18n: {
-    locales: nextIntlConfig.locales,
-    defaultLocale: nextIntlConfig.defaultLocale,
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: 'images.unsplash.com',
+      },
+    ],
   },
 };
 
-module.exports = nextConfig;
+const withNextIntl = require('next-intl/plugin')('./next-intl.config.ts');
+
+module.exports = withNextIntl(nextConfig);

@@ -1,7 +1,7 @@
 'use client';
 
-import { Link } from 'lucide-react';
 import { useTranslations } from 'next-intl';
+import Link from 'next/link';
 
 export default function Footer() {
   const t = useTranslations('Footer');
