@@ -1,0 +1,213 @@
+{
+  "Metadata": {
+    "title": "Zahnarztpraxis Hünfeld - Ihre moderne Zahnarztpraxis",
+    "description": "Willkommen in der Zahnarztpraxis Hünfeld. Wir bieten moderne Zahnmedizin in einer angenehmen Atmosphäre."
+  },
+  "Navigation": {
+    "home": "Startseite",
+    "about": "Über Uns",
+    "services": "Leistungen",
+    "contact": "Kontakt"
+  },
+  "Footer": {
+    "contact": "Kontakt",
+    "openingHours": "Öffnungszeiten",
+    "monday": "Montag",
+    "tuesday": "Dienstag",
+    "wednesday": "Mittwoch",
+    "thursday": "Donnerstag",
+    "friday": "Freitag",
+    "legal": "Rechtliches",
+    "imprint": "Impressum",
+    "privacy": "Datenschutz",
+    "rights": "Alle Rechte vorbehalten."
+  },
+  "Home": {
+    "hero": {
+      "title": "Willkommen in der Zahnarztpraxis Hünfeld",
+      "subtitle": "Ihre Gesundheit liegt uns am Herzen",
+      "cta": "Termin vereinbaren"
+    },
+    "features": {
+      "title": "Unsere Schwerpunkte",
+      "preventive": {
+        "title": "Prophylaxe",
+        "description": "Professionelle Zahnreinigung und Vorsorgeuntersuchungen"
+      },
+      "aesthetic": {
+        "title": "Ästhetische Zahnheilkunde",
+        "description": "Bleaching, Veneers und moderne Füllungen"
+      },
+      "implants": {
+        "title": "Implantologie",
+        "description": "Modernste Implantattechniken für feste Zähne"
+      }
+    },
+    "quickInfo": {
+      "hours": {
+        "title": "Sprechzeiten",
+        "content": "Mo-Do: 8:00-17:00, Fr: 8:00-14:00"
+      },
+      "emergency": {
+        "title": "Notfallnummer",
+        "content": "+49 (0) 6652 12345"
+      },
+      "appointment": {
+        "title": "Terminvereinbarung",
+        "content": "Online oder telefonisch möglich"
+      }
+    },
+    "welcome": {
+      "title": "Ihr Wohl ist unsere Priorität",
+      "description": "In unserer modernen Zahnarztpraxis in Hünfeld verbinden wir jahrelange Erfahrung mit modernster Technologie. Unser engagiertes Team sorgt dafür, dass Sie sich bei uns wohl und gut aufgehoben fühlen.",
+      "cta": "Mehr über uns"
+    },
+    "cta": {
+      "title": "Vereinbaren Sie noch heute einen Termin",
+      "description": "Wir freuen uns darauf, Sie in unserer Praxis begrüßen zu dürfen",
+      "button": "Jetzt Termin vereinbaren"
+    }
+  },
+  "About": {
+    "hero": {
+      "title": "Über Unsere Praxis",
+      "subtitle": "Lernen Sie unser Team und unsere Philosophie kennen"
+    },
+    "values": {
+      "title": "Unsere Werte",
+      "care": {
+        "title": "Fürsorge",
+        "description": "Wir behandeln jeden Patienten mit Empathie und individueller Aufmerksamkeit"
+      },
+      "quality": {
+        "title": "Qualität",
+        "description": "Höchste Standards in Behandlung und Patientenbetreuung"
+      },
+      "expertise": {
+        "title": "Expertise",
+        "description": "Kontinuierliche Fortbildung und modernste Technologien"
+      },
+      "team": {
+        "title": "Teamwork",
+        "description": "Gemeinsam für Ihre optimale Zahngesundheit"
+      }
+    },
+    "history": {
+      "title": "Unsere Geschichte",
+      "description": "Seit über 25 Jahren sind wir Ihr verlässlicher Partner für Zahngesundheit in Hünfeld. Was als kleine Praxis begann, hat sich zu einem modernen Zentrum für umfassende Zahnmedizin entwickelt."
+    },
+    "team": {
+      "title": "Unser Team",
+      "schmidt": {
+        "role": "Praxisinhaber & Zahnarzt",
+        "description": "Dr. Schmidt bringt über 20 Jahre Erfahrung in der Zahnmedizin mit und ist Experte für Implantologie."
+      },
+      "weber": {
+        "role": "Zahnärztin",
+        "description": "Dr. Weber ist spezialisiert auf ästhetische Zahnheilkunde und Kinderzahnheilkunde."
+      },
+      "mueller": {
+        "role": "Dentalhygienikerin",
+        "description": "Frau Müller ist unsere Expertin für Prophylaxe und professionelle Zahnreinigung."
+      }
+    }
+  },
+  "Services": {
+    "hero": {
+      "title": "Unsere Leistungen",
+      "subtitle": "Moderne Zahnmedizin für die ganze Familie",
+      "cta": "Termin vereinbaren"
+    },
+    "mainServices": {
+      "title": "Behandlungsschwerpunkte",
+      "learnMore": "Mehr erfahren"
+    },
+    "main": {
+      "preventive": {
+        "title": "Prophylaxe",
+        "description": "Vorsorge und professionelle Zahnreinigung"
+      },
+      "aesthetic": {
+        "title": "Ästhetische Zahnheilkunde",
+        "description": "Für ein strahlendes Lächeln"
+      },
+      "implants": {
+        "title": "Implantologie",
+        "description": "Zahnersatz mit höchster Qualität"
+      },
+      "children": {
+        "title": "Kinderzahnheilkunde",
+        "description": "Sanfte Behandlung für die Kleinsten"
+      },
+      "surgery": {
+        "title": "Oralchirurgie",
+        "description": "Komplexe chirurgische Eingriffe"
+      },
+      "emergency": {
+        "title": "Notfallbehandlung",
+        "description": "Schnelle Hilfe bei akuten Beschwerden"
+      }
+    },
+    "detailed": {
+      "title": "Detaillierte Leistungen",
+      "preventive": {
+        "title": "Prophylaxe & Vorsorge",
+        "description": "Regelmäßige Vorsorge ist der beste Schutz für Ihre Zähne.",
+        "services": "Professionelle Zahnreinigung, Kariesvorsorge, Parodontitis-Behandlung, Fissurenversiegelung"
+      },
+      "aesthetic": {
+        "title": "Ästhetische Behandlungen",
+        "description": "Für ein natürlich schönes Lächeln bieten wir verschiedene Behandlungsmöglichkeiten.",
+        "services": "Bleaching, Veneers, Keramik-Inlays, Zahnschmuck"
+      },
+      "implants": {
+        "title": "Implantologie",
+        "description": "Modernste Implantattechniken für langlebigen Zahnersatz.",
+        "services": "Einzelzahnimplantate, Brücken auf Implantaten, All-on-4, Knochenaufbau"
+      }
+    },
+    "cta": {
+      "title": "Haben Sie Fragen zu unseren Leistungen?",
+      "description": "Vereinbaren Sie einen Beratungstermin",
+      "button": "Kontakt aufnehmen"
+    }
+  },
+  "Contact": {
+    "title": "Kontakt",
+    "subtitle": "Wir freuen uns auf Ihre Nachricht",
+    "info": {
+      "address": {
+        "title": "Adresse"
+      },
+      "phone": {
+        "title": "Telefon",
+        "emergency": "Notfall: +49 (0) 6652 12345"
+      },
+      "email": {
+        "title": "E-Mail"
+      },
+      "hours": {
+        "title": "Öffnungszeiten",
+        "weekdays": "Mo-Do: 8:00-17:00",
+        "friday": "Fr: 8:00-14:00"
+      }
+    },
+    "form": {
+      "title": "Kontaktformular",
+      "name": "Name",
+      "namePlaceholder": "Ihr vollständiger Name",
+      "email": "E-Mail",
+      "emailPlaceholder": "Ihre E-Mail-Adresse",
+      "phone": "Telefon",
+      "phonePlaceholder": "Ihre Telefonnummer",
+      "message": "Nachricht",
+      "messagePlaceholder": "Wie können wir Ihnen helfen?",
+      "submit": "Nachricht senden",
+      "submitting": "Wird gesendet...",
+      "success": {
+        "title": "Nachricht gesendet",
+        "description": "Vielen Dank für Ihre Nachricht. Wir werden uns schnellstmöglich bei Ihnen melden."
+      }
+    }
+  }
+}

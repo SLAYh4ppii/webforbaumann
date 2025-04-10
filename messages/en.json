@@ -1,0 +1,213 @@
+{
+  "Metadata": {
+    "title": "Dental Practice Hünfeld - Your Modern Dental Clinic",
+    "description": "Welcome to Dental Practice Hünfeld. We offer modern dentistry in a comfortable atmosphere."
+  },
+  "Navigation": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "Footer": {
+    "contact": "Contact",
+    "openingHours": "Opening Hours",
+    "monday": "Monday",
+    "tuesday": "Tuesday",
+    "wednesday": "Wednesday",
+    "thursday": "Thursday",
+    "friday": "Friday",
+    "legal": "Legal",
+    "imprint": "Imprint",
+    "privacy": "Privacy Policy",
+    "rights": "All rights reserved."
+  },
+  "Home": {
+    "hero": {
+      "title": "Welcome to Dental Practice Hünfeld",
+      "subtitle": "Your Health is Our Priority",
+      "cta": "Book Appointment"
+    },
+    "features": {
+      "title": "Our Focus Areas",
+      "preventive": {
+        "title": "Prevention",
+        "description": "Professional teeth cleaning and check-ups"
+      },
+      "aesthetic": {
+        "title": "Aesthetic Dentistry",
+        "description": "Bleaching, veneers, and modern fillings"
+      },
+      "implants": {
+        "title": "Implantology",
+        "description": "State-of-the-art implant techniques for fixed teeth"
+      }
+    },
+    "quickInfo": {
+      "hours": {
+        "title": "Office Hours",
+        "content": "Mon-Thu: 8:00-17:00, Fri: 8:00-14:00"
+      },
+      "emergency": {
+        "title": "Emergency Number",
+        "content": "+49 (0) 6652 12345"
+      },
+      "appointment": {
+        "title": "Appointments",
+        "content": "Available online or by phone"
+      }
+    },
+    "welcome": {
+      "title": "Your Well-being is Our Priority",
+      "description": "In our modern dental practice in Hünfeld, we combine years of experience with state-of-the-art technology. Our dedicated team ensures that you feel comfortable and well-cared for.",
+      "cta": "More About Us"
+    },
+    "cta": {
+      "title": "Schedule Your Appointment Today",
+      "description": "We look forward to welcoming you to our practice",
+      "button": "Book Now"
+    }
+  },
+  "About": {
+    "hero": {
+      "title": "About Our Practice",
+      "subtitle": "Meet our team and learn about our philosophy"
+    },
+    "values": {
+      "title": "Our Values",
+      "care": {
+        "title": "Care",
+        "description": "We treat every patient with empathy and individual attention"
+      },
+      "quality": {
+        "title": "Quality",
+        "description": "Highest standards in treatment and patient care"
+      },
+      "expertise": {
+        "title": "Expertise",
+        "description": "Continuous education and state-of-the-art technologies"
+      },
+      "team": {
+        "title": "Teamwork",
+        "description": "Working together for your optimal dental health"
+      }
+    },
+    "history": {
+      "title": "Our History",
+      "description": "For over 25 years, we have been your reliable partner for dental health in Hünfeld. What started as a small practice has evolved into a modern center for comprehensive dentistry."
+    },
+    "team": {
+      "title": "Our Team",
+      "schmidt": {
+        "role": "Practice Owner & Dentist",
+        "description": "Dr. Schmidt brings over 20 years of experience in dentistry and is an expert in implantology."
+      },
+      "weber": {
+        "role": "Dentist",
+        "description": "Dr. Weber specializes in aesthetic dentistry and pediatric dental care."
+      },
+      "mueller": {
+        "role": "Dental Hygienist",
+        "description": "Ms. Müller is our expert for prophylaxis and professional teeth cleaning."
+      }
+    }
+  },
+  "Services": {
+    "hero": {
+      "title": "Our Services",
+      "subtitle": "Modern dentistry for the whole family",
+      "cta": "Book Appointment"
+    },
+    "mainServices": {
+      "title": "Treatment Focus Areas",
+      "learnMore": "Learn More"
+    },
+    "main": {
+      "preventive": {
+        "title": "Prevention",
+        "description": "Preventive care and professional cleaning"
+      },
+      "aesthetic": {
+        "title": "Aesthetic Dentistry",
+        "description": "For a radiant smile"
+      },
+      "implants": {
+        "title": "Implantology",
+        "description": "High-quality dental implants"
+      },
+      "children": {
+        "title": "Pediatric Dentistry",
+        "description": "Gentle treatment for little ones"
+      },
+      "surgery": {
+        "title": "Oral Surgery",
+        "description": "Complex surgical procedures"
+      },
+      "emergency": {
+        "title": "Emergency Treatment",
+        "description": "Quick help for acute problems"
+      }
+    },
+    "detailed": {
+      "title": "Detailed Services",
+      "preventive": {
+        "title": "Prevention & Care",
+        "description": "Regular prevention is the best protection for your teeth.",
+        "services": "Professional teeth cleaning, Cavity prevention, Periodontal treatment, Fissure sealing"
+      },
+      "aesthetic": {
+        "title": "Aesthetic Treatments",
+        "description": "We offer various treatment options for a naturally beautiful smile.",
+        "services": "Bleaching, Veneers, Ceramic inlays, Dental jewelry"
+      },
+      "implants": {
+        "title": "Implantology",
+        "description": "State-of-the-art implant techniques for long-lasting dental prosthetics.",
+        "services": "Single tooth implants, Implant-supported bridges, All-on-4, Bone augmentation"
+      }
+    },
+    "cta": {
+      "title": "Questions about our services?",
+      "description": "Schedule a consultation",
+      "button": "Contact Us"
+    }
+  },
+  "Contact": {
+    "title": "Contact",
+    "subtitle": "We look forward to hearing from you",
+    "info": {
+      "address": {
+        "title": "Address"
+      },
+      "phone": {
+        "title": "Phone",
+        "emergency": "Emergency: +49 (0) 6652 12345"
+      },
+      "email": {
+        "title": "Email"
+      },
+      "hours": {
+        "title": "Opening Hours",
+        "weekdays": "Mon-Thu: 8:00-17:00",
+        "friday": "Fri: 8:00-14:00"
+      }
+    },
+    "form": {
+      "title": "Contact Form",
+      "name": "Name",
+      "namePlaceholder": "Your full name",
+      "email": "Email",
+      "emailPlaceholder": "Your email address",
+      "phone": "Phone",
+      "phonePlaceholder": "Your phone number",
+      "message": "Message",
+      "messagePlaceholder": "How can we help you?",
+      "submit": "Send Message",
+      "submitting": "Sending...",
+      "success": {
+        "title": "Message Sent",
+        "description": "Thank you for your message. We will get back to you as soon as possible."
+      }
+    }
+  }
+}
