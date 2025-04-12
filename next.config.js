@@ -1,18 +1,12 @@
+// @ts-check
+
+const withNextIntl = require('next-intl/plugin')();
+
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-  eslint: {
-    ignoreDuringBuilds: true,
-  },
-  images: {
-    remotePatterns: [
-      {
-        protocol: 'https',
-        hostname: 'images.unsplash.com',
-      },
-    ],
+const config = {
+  env: {
+    _next_intl_trailing_slash: '', // Add this to resolve the warning
   },
 };
 
-const withNextIntl = require('next-intl/plugin')('./next-intl.config.ts');
-
-module.exports = withNextIntl(nextConfig);
+module.exports = withNextIntl(config);
